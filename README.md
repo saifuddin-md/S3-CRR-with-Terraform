@@ -1,8 +1,7 @@
 # S3-Cross-Region-Replication--with-Terraform
 This project provisions Amazon S3 Cross-Region Replication (CRR) using Terraform.
 
-- The configuration creates:
-
+**The configuration creates:**
 - A primary S3 bucket in one AWS Region
 - A secondary S3 bucket in another AWS Region
 - S3 versioning on both buckets
