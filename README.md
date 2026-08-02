@@ -10,3 +10,9 @@ This project provisions Amazon S3 Cross-Region Replication (CRR) using Terraform
 - One-way replication from the primary bucket to the secondary bucket
 - Delete-marker replication
 - Terraform outputs for bucket names, ARNs, and the replication role
+
+## Diagram
+
+<p align="center">
+  <img src="./doc/image-vm.png" alt="LEMP Diagram" width="900">
+</
