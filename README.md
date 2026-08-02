@@ -14,5 +14,5 @@ This project provisions Amazon S3 Cross-Region Replication (CRR) using Terraform
 ## Diagram
 
 <p align="center">
-  <img src="./doc/image-vm.png" alt="LEMP Diagram" width="900">
+  <img src="./doc/s3-crr-tf.jpg" alt="LEMP Diagram" width="900">
 </
