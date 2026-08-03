@@ -1,4 +1,4 @@
-# S3-Cross-Region-Replication--with-Terraform
+# S3-Cross-Region-Replication-with-Terraform
 This project provisions Amazon S3 Cross-Region Replication (CRR) using Terraform.
 
 **The configuration creates:**
